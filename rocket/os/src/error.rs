@@ -1,9 +1,4 @@
 
----
-
-**`src/error.rs`:**
-
-```rust
 use std::fmt;
 
 #[derive(Debug, Clone, PartialEq, Eq)]
